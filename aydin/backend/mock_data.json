@@ -1,142 +1,142 @@
 [
   {
-    "text": "🎉 Big Music Festival coming up! Join us on 15/05/2024 at Central Park. Amazing lineup with DJs from around the world. Location: Central Park, NYC. Don't miss it!",
-    "channel": "music_events"
+    "text": "🎉 Musiqa festivali: Amudaryo sadolari. 25/04/2026, 19:00. Location: Berdax nomidagi teatr, Nukus. Eng yaxshi xonandalar ishtirokida!",
+    "channel": "nukus_events"
   },
   {
-    "text": "Tech Meetup: AI in Healthcare. Date: 20-05-2024. Time: 18:00. Venue: Tech Hub, Berlin. Register now!",
-    "channel": "tech_meetups"
+    "text": "IT Meetup: Sun'iy intellekt va zamonaviy texnologiyalar. Sana: 30/04/2026. Vaqt: 18:00. Location: Ajiniyoz nomidagi NDPI, Nukus. Ro'yxatdan o'ting!",
+    "channel": "it_nukus"
   },
   {
-    "text": "Concert: Rock Legends Live. 25/05/2024, 20:00. Location: Stadium Arena. Tickets available.",
-    "channel": "concerts"
+    "text": "Concert: Kuresh Sultanov — Live in Nukus. 03/05/2026, 20:00. Location: Berdax nomidagi teatr, Nukus.",
+    "channel": "concerts_nukus"
   },
   {
-    "text": "Workshop: Digital Marketing Strategies. Date: 30/05/2024. Time: 10:00 AM. Location: Conference Center, London.",
-    "channel": "workshops"
+    "text": "Workshop: Digital Marketing asoslari. Sana: 08/05/2026. Vaqt: 10:00. Location: Nukus IT Center, Nukus. Bepul!",
+    "channel": "workshops_nukus"
   },
   {
-    "text": "Party time! Beach Bash on 05/06/2024. Location: Miami Beach. Bring your friends!",
-    "channel": "parties"
+    "text": "🎨 Ko'rgazma: Savitskiy muzeyida yangi eksponat. 15/05/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus. Kirish bepul.",
+    "channel": "art_nukus"
   },
   {
-    "text": "Seminar: Future of Blockchain. 10/06/2024, 14:00. Venue: University Hall, Tokyo.",
-    "channel": "seminars"
+    "text": "Seminar: Qoraqalpog'iston turizmi — rivojlanish istiqbollari. Sana: 20/05/2026. Vaqt: 14:00. Location: Nukus Grand Hotel, Nukus.",
+    "channel": "business_nukus"
   },
   {
-    "text": "Hackathon: Code for Good. Starts 15/06/2024. Location: Innovation Lab, San Francisco.",
-    "channel": "hackathons"
+    "text": "Hackathon: Aral dengizi muammolari — texnologik yechimlar. 25/05/2026. Location: Ajiniyoz nomidagi NDPI, Nukus. 48 soatlik musobaqa!",
+    "channel": "hackathons_nukus"
   },
   {
-    "text": "Festival: Food and Wine Expo. 20/06/2024. Location: Expo Center, Paris.",
-    "channel": "festivals"
+    "text": "Festival: Qoraqalpaq milliy taomlari festivali. 01/06/2026. Location: Markaziy park, Nukus. 30 dan ortiq oshxona!",
+    "channel": "food_nukus"
   },
   {
-    "text": "Meeting: Startup Pitch Night. Date: 25/06/2024. Time: 19:00. Location: Startup Hub, New York.",
-    "channel": "meetings"
+    "text": "Meeting: Yosh tadbirkorlar uchrashuvi. Sana: 05/06/2026. Vaqt: 19:00. Location: Coworking Nukus, Nukus.",
+    "channel": "meetings_nukus"
   },
   {
-    "text": "Show: Broadway Musical. 30/06/2024, 20:00. Location: Theater District, NYC.",
-    "channel": "shows"
+    "text": "🎭 Teatr: \"Qirq qiz\" dostoni — zamonaviy sahna. 10/06/2026, 19:00. Location: Berdax nomidagi teatr, Nukus.",
+    "channel": "theatre_nukus"
   },
   {
-    "text": "Evento: Festival de Música en Madrid. Fecha: 05/07/2024. Lugar: Parque del Retiro.",
-    "channel": "eventos_es"
+    "text": "🎶 Konsert: Rayhon — Live in Nukus. 20/06/2026, 20:00. Location: Turon saroyi, Nukus. Biletlar sotuvda!",
+    "channel": "concerts_nukus"
   },
   {
-    "text": "Réunion: Discussion sur l'IA. Date: 10/07/2024. Heure: 16:00. Lieu: Centre de Conférences, Paris.",
-    "channel": "reunions_fr"
+    "text": "Tech Talk: Mobil ilovalar va UX dizayn. Sana: 25/06/2026. Vaqt: 17:00. Location: Nukus IT Center, Nukus.",
+    "channel": "tech_nukus"
   },
   {
-    "text": "Concerto: Orchestra Sinfonica. 15/07/2024, 19:30. Luogo: Teatro alla Scala, Milano.",
-    "channel": "concerti_it"
+    "text": "Workshop: Python dasturlash tili — boshlang'ich kurs. Sana: 01/07/2026. Vaqt: 10:00. Location: Ajiniyoz nomidagi NDPI, Nukus. Bepul!",
+    "channel": "tech_nukus"
   },
   {
-    "text": "Workshop: Fotografia Digitale. Data: 20/07/2024. Ora: 11:00. Luogo: Accademia delle Arti, Roma.",
-    "channel": "workshops_it"
+    "text": "🏃 Sport: Nukus yarim marafoni. Sana: 07/07/2026. Vaqt: 07:00. Location: Berdax xiyoboni, Nukus.",
+    "channel": "sport_nukus"
   },
   {
-    "text": "Fiesta: Baile Latino. Fecha: 25/07/2024. Lugar: Plaza Mayor, Madrid.",
-    "channel": "fiestas_es"
+    "text": "Ko'rgazma: Qoraqalpaq amaliy san'ati. 12/07/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus.",
+    "channel": "art_nukus"
   },
   {
-    "text": "Séminaire: Économie Durable. 30/07/2024, 14:00. Lieu: Université de Lyon.",
-    "channel": "seminaires_fr"
+    "text": "Seminar: Ekologiya va Orol dengizi muammolari. Sana: 18/07/2026. Vaqt: 14:00. Location: Nukus Grand Hotel, Nukus.",
+    "channel": "education_nukus"
   },
   {
-    "text": "Hackathon: Développement Web. Commence le 05/08/2024. Lieu: Labo Innovation, Lyon.",
-    "channel": "hackathons_fr"
+    "text": "Hackathon: EduTech — ta'limda innovatsiyalar. 24/07/2026. Location: Nukus IT Center, Nukus.",
+    "channel": "hackathons_nukus"
   },
   {
-    "text": "Festival: Arte e Cultura. 10/08/2024. Luogo: Piazza Duomo, Firenze.",
-    "channel": "festivals_it"
+    "text": "Festival: Nukus street food fest. 01/08/2026. Location: Markaziy bozor atrofi, Nukus. Eng mazali taomlar!",
+    "channel": "food_nukus"
   },
   {
-    "text": "Incontro: Networking per Imprenditori. Data: 15/08/2024. Ora: 18:00. Luogo: Business Center, Milano.",
-    "channel": "incontri_it"
+    "text": "🎤 Konsert: Ozoda Nursaidova — Nukusda jonli ijro. 08/08/2026, 20:00. Location: Turon saroyi, Nukus.",
+    "channel": "concerts_nukus"
   },
   {
-    "text": "Espectáculo: Teatro Clásico. 20/08/2024, 20:00. Lugar: Teatro Real, Madrid.",
-    "channel": "espectaculos_es"
+    "text": "Teatr: \"Alpomish\" — qahramonlik dostoni. 15/08/2026, 19:00. Location: Berdax nomidagi teatr, Nukus.",
+    "channel": "theatre_nukus"
   },
   {
-    "text": "Conférence: Intelligence Artificielle. Date: 25/08/2024. Heure: 15:00. Lieu: Sorbonne, Paris.",
-    "channel": "conferences_fr"
+    "text": "Data Science Meetup Nukus. Sana: 22/08/2026. Vaqt: 18:00. Location: Ajiniyoz nomidagi NDPI, Nukus.",
+    "channel": "tech_nukus"
   },
   {
-    "text": "Concerto: Jazz Night. 30/08/2024, 21:00. Luogo: Blue Note, Roma.",
-    "channel": "concerti_it"
+    "text": "🎵 Jazz kechasi: Nukus Jazz Club. 28/08/2026, 21:00. Location: Afsona restoran, Nukus.",
+    "channel": "music_nukus"
   },
   {
-    "text": "Evento Deportivo: Maratón Urbana. Fecha: 05/09/2024. Lugar: Ciudad Deportiva, Barcelona.",
-    "channel": "deportes_es"
+    "text": "Networking: Nukus IT hamjamiyati uchrashuvi. Sana: 05/09/2026. Vaqt: 18:30. Location: Coworking Nukus, Nukus.",
+    "channel": "tech_nukus"
   },
   {
-    "text": "Rencontre: Atelier Créatif. Date: 10/09/2024. Heure: 10:00. Lieu: Atelier d'Art, Marseille.",
-    "channel": "rencontres_fr"
+    "text": "Masterclass: Grafik dizayn asoslari. Sana: 12/09/2026. Vaqt: 11:00. Location: Nukus IT Center, Nukus.",
+    "channel": "design_nukus"
   },
   {
-    "text": "Spettacolo: Balletto Classico. 15/09/2024, 19:00. Luogo: Teatro dell'Opera, Firenze.",
-    "channel": "spettacoli_it"
+    "text": "🎮 Kibersport turniri: Nukus Cyber Cup 2026. 18/09/2026. Location: Yoshlar markazi, Nukus. Ro'yxatdan o'ting!",
+    "channel": "gaming_nukus"
   },
   {
-    "text": "Taller: Diseño Gráfico. Fecha: 20/09/2024. Hora: 14:00. Lugar: Centro de Diseño, Valencia.",
-    "channel": "talleres_es"
+    "text": "Konferensiya: Qoraqalpog'istonda startap ekotizimi. Sana: 25/09/2026. Vaqt: 10:00. Location: Nukus Grand Hotel, Nukus.",
+    "channel": "startups_nukus"
   },
   {
-    "text": "Colloque: Sciences de l'Environnement. 25/09/2024, 13:00. Lieu: Musée des Sciences, Toulouse.",
-    "channel": "colloques_fr"
+    "text": "🎤 Konsert: Bahrom Nazarov — Nukusda. 02/10/2026, 19:00. Location: Turon saroyi, Nukus. Biletlar sotuvda!",
+    "channel": "concerts_nukus"
   },
   {
-    "text": "Hackathon: IA et Machine Learning. Du 30/09/2024 au 01/10/2024. Lieu: Campus Numérique, Paris.",
-    "channel": "hackathons_fr"
+    "text": "Workshop: Ingliz tilini o'rganish usullari. Sana: 10/10/2026. Vaqt: 15:00. Location: Ajiniyoz nomidagi NDPI, Nukus.",
+    "channel": "education_nukus"
   },
   {
-    "text": "Festival: Cinema Indipendente. 05/10/2024. Luogo: Cinema Teatro, Venezia.",
-    "channel": "festivals_it"
+    "text": "Film Festival: Qoraqalpaq kino haftaligi. 17/10/2026. Location: Berdax nomidagi teatr, Nukus. 15+ premyera.",
+    "channel": "film_nukus"
   },
   {
-    "text": "Encuentro: Literatura Moderna. Fecha: 10/10/2024. Hora: 17:00. Lugar: Biblioteca Nacional, Madrid.",
-    "channel": "encuentros_es"
+    "text": "🧘 Yoga va salomatlik festivali. Sana: 24/10/2026. Vaqt: 08:00. Location: Markaziy park, Nukus.",
+    "channel": "wellness_nukus"
   },
   {
-    "text": "Séance: Méditation et Bien-être. Date: 15/10/2024. Heure: 09:00. Lieu: Centre de Yoga, Nice.",
-    "channel": "seances_fr"
+    "text": "Tadbirkorlik forumi: Yosh tadbirkorlar uchun. Sana: 01/11/2026. Vaqt: 09:00. Location: Nukus Grand Hotel, Nukus.",
+    "channel": "business_nukus"
   },
   {
-    "text": "Mostra: Arte Contemporanea. 20/10/2024. Luogo: Galleria d'Arte, Milano.",
-    "channel": "mostre_it"
+    "text": "🎭 Teatr: Hamlet — zamonaviy talqin. 08/11/2026, 19:30. Location: Berdax nomidagi teatr, Nukus.",
+    "channel": "theatre_nukus"
   },
   {
-    "text": "Charla: Innovación Tecnológica. Fecha: 25/10/2024. Hora: 16:00. Lugar: Auditorio Tecnológico, Barcelona.",
-    "channel": "charlas_es"
+    "text": "Startup Weekend Nukus. 15/11/2026. Location: Nukus IT Center, Nukus. 54 soatda g'oyadan startapga!",
+    "channel": "startups_nukus"
   },
   {
-    "text": "Débat: Politique Internationale. Date: 30/10/2024. Heure: 18:00. Lieu: Maison de la Culture, Strasbourg.",
-    "channel": "debats_fr"
+    "text": "Ko'rgazma: Zamonaviy fotografiya. Sana: 22/11/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus.",
+    "channel": "art_nukus"
   },
   {
-    "text": "Concerto: Musica Classica. 05/11/2024, 20:00. Luogo: Auditorium, Bologna.",
-    "channel": "concerti_it"
+    "text": "🏋️ CrossFit musobaqasi: Nukus Open 2026. 30/11/2026, 10:00. Location: Yoshlar sport majmuasi, Nukus.",
+    "channel": "sport_nukus"
   }
 ]
