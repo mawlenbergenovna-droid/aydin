@@ -7,10 +7,11 @@ import SkeletonCard from '../components/SkeletonCard';
 import Layout from '../components/Layout';
 
 export default function Home() {
-  const { events, loading, hasMore, fetchEvents } = useEventStore();
+  const { events, loading, hasMore, fetchEvents, fetchSavedEvents, savedEvents } = useEventStore();
 
   useEffect(() => {
     fetchEvents();
+    fetchSavedEvents();
   }, []);
 
   return (
@@ -47,7 +48,7 @@ export default function Home() {
           ) : (
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               {events.map((event) => (
-                <EventCard key={event.id} event={event} />
+                <EventCard key={event.id} event={event} isSaved={savedEvents.some((e) => e.id === event.id)} />
               ))}
             </div>
           )}
