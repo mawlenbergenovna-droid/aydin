@@ -37,7 +37,7 @@ function extractEventData(text: string) {
 
 async function main() {
   const mockDataPath = path.join(__dirname, '../mock_data.json');
-  const mockData: { text: string; channel: string }[] = JSON.parse(
+  const mockData: { text: string; channel: string; url?: string }[] = JSON.parse(
     fs.readFileSync(mockDataPath, 'utf-8'),
   );
 
@@ -58,6 +58,7 @@ async function main() {
         data: {
           ...eventData,
           sourceChannel: post.channel,
+          sourceUrl: post.url || null,
         },
       });
       console.log(`  Created: ${eventData.title}`);
