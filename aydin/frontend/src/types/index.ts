@@ -13,6 +13,7 @@ export interface Event {
   category: string;
   description: string;
   sourceChannel: string;
+  sourceUrl?: string;
 }
 
 export interface AuthState {

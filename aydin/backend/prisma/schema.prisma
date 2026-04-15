@@ -26,6 +26,7 @@ model Event {
   category      String   @default("General")
   description   String
   sourceChannel String
+  sourceUrl     String?
   createdAt     DateTime @default(now())
 
   savedBy SavedEvent[]

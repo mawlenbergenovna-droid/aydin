@@ -1,142 +1,177 @@
 [
   {
     "text": "🎉 Musiqa festivali: Amudaryo sadolari. 25/04/2026, 19:00. Location: Berdax nomidagi teatr, Nukus. Eng yaxshi xonandalar ishtirokida!",
-    "channel": "nukus_events"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/343"
   },
   {
     "text": "IT Meetup: Sun'iy intellekt va zamonaviy texnologiyalar. Sana: 30/04/2026. Vaqt: 18:00. Location: Ajiniyoz nomidagi NDPI, Nukus. Ro'yxatdan o'ting!",
-    "channel": "it_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/344"
   },
   {
     "text": "Concert: Kuresh Sultanov — Live in Nukus. 03/05/2026, 20:00. Location: Berdax nomidagi teatr, Nukus.",
-    "channel": "concerts_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/345"
   },
   {
     "text": "Workshop: Digital Marketing asoslari. Sana: 08/05/2026. Vaqt: 10:00. Location: Nukus IT Center, Nukus. Bepul!",
-    "channel": "workshops_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/346"
   },
   {
     "text": "🎨 Ko'rgazma: Savitskiy muzeyida yangi eksponat. 15/05/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus. Kirish bepul.",
-    "channel": "art_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/347"
   },
   {
     "text": "Seminar: Qoraqalpog'iston turizmi — rivojlanish istiqbollari. Sana: 20/05/2026. Vaqt: 14:00. Location: Nukus Grand Hotel, Nukus.",
-    "channel": "business_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/348"
   },
   {
     "text": "Hackathon: Aral dengizi muammolari — texnologik yechimlar. 25/05/2026. Location: Ajiniyoz nomidagi NDPI, Nukus. 48 soatlik musobaqa!",
-    "channel": "hackathons_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/349"
   },
   {
     "text": "Festival: Qoraqalpaq milliy taomlari festivali. 01/06/2026. Location: Markaziy park, Nukus. 30 dan ortiq oshxona!",
-    "channel": "food_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/350"
   },
   {
     "text": "Meeting: Yosh tadbirkorlar uchrashuvi. Sana: 05/06/2026. Vaqt: 19:00. Location: Coworking Nukus, Nukus.",
-    "channel": "meetings_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/351"
   },
   {
     "text": "🎭 Teatr: \"Qirq qiz\" dostoni — zamonaviy sahna. 10/06/2026, 19:00. Location: Berdax nomidagi teatr, Nukus.",
-    "channel": "theatre_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/352"
   },
   {
     "text": "🎶 Konsert: Rayhon — Live in Nukus. 20/06/2026, 20:00. Location: Turon saroyi, Nukus. Biletlar sotuvda!",
-    "channel": "concerts_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/353"
   },
   {
     "text": "Tech Talk: Mobil ilovalar va UX dizayn. Sana: 25/06/2026. Vaqt: 17:00. Location: Nukus IT Center, Nukus.",
-    "channel": "tech_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/354"
   },
   {
     "text": "Workshop: Python dasturlash tili — boshlang'ich kurs. Sana: 01/07/2026. Vaqt: 10:00. Location: Ajiniyoz nomidagi NDPI, Nukus. Bepul!",
-    "channel": "tech_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/355"
   },
   {
     "text": "🏃 Sport: Nukus yarim marafoni. Sana: 07/07/2026. Vaqt: 07:00. Location: Berdax xiyoboni, Nukus.",
-    "channel": "sport_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/356"
   },
   {
     "text": "Ko'rgazma: Qoraqalpaq amaliy san'ati. 12/07/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus.",
-    "channel": "art_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/357"
   },
   {
     "text": "Seminar: Ekologiya va Orol dengizi muammolari. Sana: 18/07/2026. Vaqt: 14:00. Location: Nukus Grand Hotel, Nukus.",
-    "channel": "education_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/358"
   },
   {
     "text": "Hackathon: EduTech — ta'limda innovatsiyalar. 24/07/2026. Location: Nukus IT Center, Nukus.",
-    "channel": "hackathons_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/359"
   },
   {
     "text": "Festival: Nukus street food fest. 01/08/2026. Location: Markaziy bozor atrofi, Nukus. Eng mazali taomlar!",
-    "channel": "food_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/360"
   },
   {
     "text": "🎤 Konsert: Ozoda Nursaidova — Nukusda jonli ijro. 08/08/2026, 20:00. Location: Turon saroyi, Nukus.",
-    "channel": "concerts_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/361"
   },
   {
     "text": "Teatr: \"Alpomish\" — qahramonlik dostoni. 15/08/2026, 19:00. Location: Berdax nomidagi teatr, Nukus.",
-    "channel": "theatre_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/362"
   },
   {
     "text": "Data Science Meetup Nukus. Sana: 22/08/2026. Vaqt: 18:00. Location: Ajiniyoz nomidagi NDPI, Nukus.",
-    "channel": "tech_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/363"
   },
   {
     "text": "🎵 Jazz kechasi: Nukus Jazz Club. 28/08/2026, 21:00. Location: Afsona restoran, Nukus.",
-    "channel": "music_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/364"
   },
   {
     "text": "Networking: Nukus IT hamjamiyati uchrashuvi. Sana: 05/09/2026. Vaqt: 18:30. Location: Coworking Nukus, Nukus.",
-    "channel": "tech_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/365"
   },
   {
     "text": "Masterclass: Grafik dizayn asoslari. Sana: 12/09/2026. Vaqt: 11:00. Location: Nukus IT Center, Nukus.",
-    "channel": "design_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/366"
   },
   {
     "text": "🎮 Kibersport turniri: Nukus Cyber Cup 2026. 18/09/2026. Location: Yoshlar markazi, Nukus. Ro'yxatdan o'ting!",
-    "channel": "gaming_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/367"
   },
   {
     "text": "Konferensiya: Qoraqalpog'istonda startap ekotizimi. Sana: 25/09/2026. Vaqt: 10:00. Location: Nukus Grand Hotel, Nukus.",
-    "channel": "startups_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/368"
   },
   {
     "text": "🎤 Konsert: Bahrom Nazarov — Nukusda. 02/10/2026, 19:00. Location: Turon saroyi, Nukus. Biletlar sotuvda!",
-    "channel": "concerts_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/369"
   },
   {
     "text": "Workshop: Ingliz tilini o'rganish usullari. Sana: 10/10/2026. Vaqt: 15:00. Location: Ajiniyoz nomidagi NDPI, Nukus.",
-    "channel": "education_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/370"
   },
   {
     "text": "Film Festival: Qoraqalpaq kino haftaligi. 17/10/2026. Location: Berdax nomidagi teatr, Nukus. 15+ premyera.",
-    "channel": "film_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/371"
   },
   {
     "text": "🧘 Yoga va salomatlik festivali. Sana: 24/10/2026. Vaqt: 08:00. Location: Markaziy park, Nukus.",
-    "channel": "wellness_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/372"
   },
   {
     "text": "Tadbirkorlik forumi: Yosh tadbirkorlar uchun. Sana: 01/11/2026. Vaqt: 09:00. Location: Nukus Grand Hotel, Nukus.",
-    "channel": "business_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/373"
   },
   {
     "text": "🎭 Teatr: Hamlet — zamonaviy talqin. 08/11/2026, 19:30. Location: Berdax nomidagi teatr, Nukus.",
-    "channel": "theatre_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/374"
   },
   {
     "text": "Startup Weekend Nukus. 15/11/2026. Location: Nukus IT Center, Nukus. 54 soatda g'oyadan startapga!",
-    "channel": "startups_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/375"
   },
   {
     "text": "Ko'rgazma: Zamonaviy fotografiya. Sana: 22/11/2026. Location: Savitskiy nomidagi san'at muzeyi, Nukus.",
-    "channel": "art_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/376"
   },
   {
     "text": "🏋️ CrossFit musobaqasi: Nukus Open 2026. 30/11/2026, 10:00. Location: Yoshlar sport majmuasi, Nukus.",
-    "channel": "sport_nukus"
+    "channel": "eventscommunity_uz",
+    "url": "https://t.me/eventscommunity_uz/377"
   }
 ]
